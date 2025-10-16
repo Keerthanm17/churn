@@ -3,6 +3,7 @@
 A straightforward web application for predicting customer churn using machine learning. Built with Next.js and scikit-learn.
 
 ## Deployemnt Server
+https://churn-app.netlify.app/
 
 ## Overview
 
