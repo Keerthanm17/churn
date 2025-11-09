@@ -1,3 +1,4 @@
+1
 # Customer Churn Prediction
 
 A straightforward web application for predicting customer churn using machine learning. Built with Next.js and scikit-learn.
